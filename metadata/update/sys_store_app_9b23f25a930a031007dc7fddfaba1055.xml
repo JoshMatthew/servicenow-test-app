@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_store_app">
+    <sys_store_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <apps_in_jumbo/>
+        <assigned_build_version/>
+        <assigned_version/>
+        <auto_update>false</auto_update>
+        <batch_install_plan/>
+        <build_version/>
+        <can_edit_in_studio>true</can_edit_in_studio>
+        <compatibilities/>
+        <conditional_content>false</conditional_content>
+        <contains_plugins>false</contains_plugins>
+        <custom_table_count/>
+        <customization/>
+        <demo_data>no_demo_data</demo_data>
+        <dependencies/>
+        <display_message/>
+        <enforce_license>none</enforce_license>
+        <guided_setup_guid/>
+        <hide_on_ui>true</hide_on_ui>
+        <hosted_plugins>false</hosted_plugins>
+        <ide_created>IDE</ide_created>
+        <indicators/>
+        <install_date/>
+        <installation_info/>
+        <installed_as_dependency>false</installed_as_dependency>
+        <is_store_app>false</is_store_app>
+        <js_level>es_latest</js_level>
+        <last_installed_from>dist</last_installed_from>
+        <latest_version>0.0.0-CONVERTED</latest_version>
+        <licensable>true</licensable>
+        <license/>
+        <license_category>none</license_category>
+        <license_definition/>
+        <license_model>none</license_model>
+        <lob/>
+        <logo/>
+        <name>Training Management</name>
+        <needs_app_engine_licensing>false</needs_app_engine_licensing>
+        <optional_apps_available>false</optional_apps_available>
+        <package_json/>
+        <package_resolver_version>1.0.0</package_resolver_version>
+        <parent_app/>
+        <price_type/>
+        <private>false</private>
+        <products>[]</products>
+        <repo_latest_updated_time/>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_2159985_training</scope>
+        <scoped_administration>false</scoped_administration>
+        <shared_internally>true</shared_internally>
+        <short_description>Manage Training Orders</short_description>
+        <source>x_2159985_training</source>
+        <static_content>true</static_content>
+        <store_latest_updated_time/>
+        <subscription_entitlement/>
+        <sys_class_name>sys_store_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-15 12:07:02</sys_created_on>
+        <sys_id>9b23f25a930a031007dc7fddfaba1055</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-15 13:20:59</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <uninstall_blocked>false</uninstall_blocked>
+        <update_available>false</update_available>
+        <update_date/>
+        <upload_info/>
+        <vendor/>
+        <vendor_prefix/>
+        <version>0.0.0-CONVERTED</version>
+    </sys_store_app>
+    <sys_translated_text action="delete_multiple" query="documentkey=9b23f25a930a031007dc7fddfaba1055"/>
+</record_update>
