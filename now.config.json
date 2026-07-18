@@ -1,6 +1,7 @@
 {
-  "scope": "x_2159985_training",
-  "scopeId": "9b23f25a930a031007dc7fddfaba1055",
-  "name": "Training Management",
-  "tsconfigPath": "./src/server/tsconfig.json"
+    "scope": "x_2159985_training",
+    "scopeId": "9b23f25a930a031007dc7fddfaba1055",
+    "name": "Training Management",
+    "tsconfigPath": "./src/server/tsconfig.json",
+    "menu": "2abc21f7735910107419c907fbf6a7d9"
 }
