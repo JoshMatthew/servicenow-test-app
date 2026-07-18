@@ -32,7 +32,7 @@ declare global {
                     training_management_menu: {
                         table: 'sys_app_application'
                         id: '495b72a958e9474f8dae9d2b7ae9f433'
-                        deleted: true
+                        deleted: false
                     }
                     training_order_module: {
                         table: 'sys_app_module'
