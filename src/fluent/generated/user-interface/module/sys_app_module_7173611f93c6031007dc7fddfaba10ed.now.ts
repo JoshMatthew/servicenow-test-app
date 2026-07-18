@@ -16,5 +16,6 @@ Record({
         sys_domain_path: '/',
         title: 'Pending',
         uncancelable: false,
+        application: '495b72a958e9474f8dae9d2b7ae9f433',
     },
 })
