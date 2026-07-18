@@ -34,9 +34,34 @@ declare global {
                         id: '495b72a958e9474f8dae9d2b7ae9f433'
                         deleted: false
                     }
+                    training_order_all: {
+                        table: 'sys_app_module'
+                        id: '986f85aeb2564f749f13904fe07d84ef'
+                    }
+                    training_order_closed: {
+                        table: 'sys_app_module'
+                        id: '5dc151bf401f4de78f33cf46673e3d73'
+                    }
+                    training_order_create_new: {
+                        table: 'sys_app_module'
+                        id: 'a2b3db18b5af44df91d890a5be4992c8'
+                    }
                     training_order_module: {
                         table: 'sys_app_module'
                         id: '718ed898730b4efebd006438d97a29c7'
+                        deleted: true
+                    }
+                    training_order_open: {
+                        table: 'sys_app_module'
+                        id: 'fbc1ab1244d649b4a05a0b0bf5c2868e'
+                    }
+                    training_order_open_unassigned: {
+                        table: 'sys_app_module'
+                        id: '18d32a14afa044f3963d7b9b1fb1e74b'
+                    }
+                    training_order_separator: {
+                        table: 'sys_app_module'
+                        id: '0081f9301da9430cac277032871cce15'
                     }
                 }
                 composite: [
