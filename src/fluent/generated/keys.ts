@@ -17,6 +17,10 @@ declare global {
                         table: 'sys_script'
                         id: '3650cc0b5d51467f9f2b19bb061b5997'
                     }
+                    c216ca17930e031007dc7fddfaba1092: {
+                        table: 'sys_script'
+                        id: 'c216ca17930e031007dc7fddfaba1092'
+                    }
                     cs0: {
                         table: 'sys_script_client'
                         id: '62aa44aac0b14cb8a597631e1e73f3fb'
