@@ -32,6 +32,11 @@ declare global {
                     training_management_menu: {
                         table: 'sys_app_application'
                         id: '495b72a958e9474f8dae9d2b7ae9f433'
+                        deleted: true
+                    }
+                    training_order_module: {
+                        table: 'sys_app_module'
+                        id: '718ed898730b4efebd006438d97a29c7'
                     }
                 }
                 composite: [
@@ -57,6 +62,13 @@ declare global {
                             name: 'x_2159985_training_lists'
                             element: 'training_description'
                             language: 'en'
+                        }
+                    },
+                    {
+                        table: 'sys_user_role'
+                        id: '3e21248812dc482aa342e35a678d6785'
+                        key: {
+                            name: 'x_2159985_training.training_order'
                         }
                     },
                     {
